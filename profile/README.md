@@ -309,10 +309,10 @@ If you are building a product, MVP, AI workflow, web app, mobile app, internal t
 
 <p align="center">
   <a href="https://webuildthings.in/">
-    <img src="https://img.shields.io/badge/Visit%20Website-webuildthings.in-black?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/webuildthings.in-black?style=for-the-badge" />
   </a>
-  <a href="https://cal.com/">
-    <img src="https://img.shields.io/badge/Book%20a%20Call-Let's%20Build-black?style=for-the-badge" />
+  <a href="https://cal.com/vivek-gandharla-launchlayer/quick-chat">
+    <img src="https://img.shields.io/badge/Let's%20Build-black?style=for-the-badge" />
   </a>
 </p>
 

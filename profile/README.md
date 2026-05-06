@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="/workspaces/.github/assets/we_build_things_banner.png" alt="We Build Things Banner" width="100%" />
+  <img src="https://github.com/We-Build-Things/.github/blob/main/assets/we_build_things_banner.png" alt="We Build Things Banner" width="100%" />
 </p>
 
 <h1 align="center">We Build Things</h1>

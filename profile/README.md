@@ -223,43 +223,6 @@ We care about codebases that are:
 
 ---
 
-## What You’ll Find in This GitHub Organization
-
-This GitHub organization contains public and private repositories related to our product development work.
-
-Public repositories may include:
-
-```txt
-product-starters/
-frontend-components/
-design-system-experiments/
-ai-automation-tools/
-backend-boilerplates/
-framer-resources/
-internal-dev-utilities/
-open-source-experiments/
-```
-
-Private repositories are used for client projects, internal systems, product builds, and confidential work.
-
----
-
-## Repository Categories
-
-When browsing our repositories, you may find work grouped into these categories:
-
-| Category        | Purpose                                                    |
-| --------------- | ---------------------------------------------------------- |
-| `apps`          | Full product builds and production applications            |
-| `web`           | Marketing websites, landing pages, and frontend builds     |
-| `api`           | Backend services, APIs, and server-side systems            |
-| `automation`    | AI workflows, internal tools, and process automation       |
-| `design-system` | Reusable UI components and design foundations              |
-| `templates`     | Starter kits, boilerplates, and launch-ready foundations   |
-| `experiments`   | Product prototypes, proof-of-concepts, and research builds |
-
----
-
 ## For Founders
 
 If you are a founder, we can help you answer the most important early product questions:

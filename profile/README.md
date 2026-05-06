@@ -290,19 +290,6 @@ mindmap
 
 ---
 
-## Featured Work
-
-> Add public projects here once repositories are ready.
-
-| Project        | Type             | Status      |
-| -------------- | ---------------- | ----------- |
-| `project-name` | Web App          | Coming Soon |
-| `project-name` | AI Automation    | Coming Soon |
-| `project-name` | Design System    | Coming Soon |
-| `project-name` | Product Template | Coming Soon |
-
----
-
 ## Work With Us
 
 If you are building a product, MVP, AI workflow, web app, mobile app, internal tool, or landing page, we can help you take it from idea to launch.

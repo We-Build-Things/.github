@@ -148,29 +148,48 @@ We use the stack that fits the product, not the other way around.
 
 ## How We Work
 
-Our process is built to reduce confusion and increase shipping speed.
+<p align="center">
+  <strong>Our process is built to reduce confusion, move fast, and ship products that are ready for real users.</strong>
+</p>
+
+<br />
 
 ```mermaid
-flowchart LR
-    A[Idea] --> B[Discovery & Planning]
-    B --> C[Product Strategy]
-    C --> D[UI/UX Design]
-    D --> E[Frontend Development]
-    E --> F[Backend Development]
-    F --> G[Testing & Optimization]
-    G --> H[Launch]
-    H --> I[Feedback & Scale]
+flowchart TB
+    A["💡 Idea"] --> B["01 · Discover & Plan"]
+    B --> C["02 · Design & Build"]
+    C --> D["03 · Launch & Scale"]
 
-    style A fill:#111,color:#fff,stroke:#333
-    style B fill:#1a1a1a,color:#fff,stroke:#333
-    style C fill:#222,color:#fff,stroke:#333
-    style D fill:#2a2a2a,color:#fff,stroke:#333
-    style E fill:#333,color:#fff,stroke:#333
-    style F fill:#3a3a3a,color:#fff,stroke:#333
-    style G fill:#444,color:#fff,stroke:#333
-    style H fill:#000,color:#fff,stroke:#333
-    style I fill:#111,color:#fff,stroke:#333
+    B --> B1["Understand the problem"]
+    B --> B2["Define MVP scope"]
+    B --> B3["Create product roadmap"]
+
+    C --> C1["Design user flows"]
+    C --> C2["Build frontend & backend"]
+    C --> C3["Integrate APIs, dashboards & automations"]
+
+    D --> D1["Deploy product"]
+    D --> D2["Test with real users"]
+    D --> D3["Improve, iterate & scale"]
+
+    style A fill:#0f172a,color:#ffffff,stroke:#334155,stroke-width:2px
+    style B fill:#2563eb,color:#ffffff,stroke:#1e40af,stroke-width:2px
+    style C fill:#f97316,color:#ffffff,stroke:#c2410c,stroke-width:2px
+    style D fill:#16a34a,color:#ffffff,stroke:#15803d,stroke-width:2px
+
+    style B1 fill:#dbeafe,color:#0f172a,stroke:#93c5fd
+    style B2 fill:#dbeafe,color:#0f172a,stroke:#93c5fd
+    style B3 fill:#dbeafe,color:#0f172a,stroke:#93c5fd
+
+    style C1 fill:#ffedd5,color:#0f172a,stroke:#fdba74
+    style C2 fill:#ffedd5,color:#0f172a,stroke:#fdba74
+    style C3 fill:#ffedd5,color:#0f172a,stroke:#fdba74
+
+    style D1 fill:#dcfce7,color:#0f172a,stroke:#86efac
+    style D2 fill:#dcfce7,color:#0f172a,stroke:#86efac
+    style D3 fill:#dcfce7,color:#0f172a,stroke:#86efac
 ```
+
 ---
 
 

@@ -26,10 +26,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Product%20Studio-Build%20Launch%20Scale-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web%20Apps-Full%20Stack-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Automation-Workflow%20Systems-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Product%20Design-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product%20Studio-Build%20%7C%20Launch%20%7C%20Scale-111827?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/Web%20Apps-Full--Stack%20Engineering-2563EB?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=1E293B" />
+  <img src="https://img.shields.io/badge/Mobile%20Apps-iOS%20%7C%20Android-7C3AED?style=for-the-badge&logo=react&logoColor=white&labelColor=1E1B4B" />
+  <img src="https://img.shields.io/badge/AI%20Automation-Smart%20Workflows-16A34A?style=for-the-badge&logo=openai&logoColor=white&labelColor=052E16" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Product%20Design-F97316?style=for-the-badge&logo=figma&logoColor=white&labelColor=431407" />
 </p>
 
 ---
@@ -237,7 +238,6 @@ If you are a founder, we can help you answer the most important early product qu
 * How do we make the product scalable after launch?
 
 Our goal is not to make the biggest possible first version.
-
 Our goal is to build the right first version.
 
 ---
@@ -312,5 +312,4 @@ If you are building a product, MVP, AI workflow, web app, mobile app, internal t
 <p align="center">
   We Build Things that move ideas forward.
 </p>
-```
 

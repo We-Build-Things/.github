@@ -492,11 +492,15 @@ flowchart LR
 <br />
 
 <p align="center">
-  <em>
-    “We do not replace your team.
+
+<blockquote align="center">
+  <h3 >
+     “We do not replace your team.
     <br />
     We strengthen the parts of the product that need more momentum.”
-  </em>
+  </h3>
+</blockquote>
+ 
 </p>
 
 ---

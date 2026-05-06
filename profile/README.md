@@ -489,7 +489,6 @@ flowchart LR
   <img src="https://img.shields.io/badge/Execution-Layer-16A34A?style=for-the-badge&labelColor=052E16" />
 </p>
 
-<br />
 
 <p align="center">
 

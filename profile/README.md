@@ -67,51 +67,64 @@ We do not just make websites look good.
 We build digital products that are designed to perform.
 
 ---
-
 ## What We Build
 
-We work across the full product lifecycle.
+<p align="center">
+  <strong>From raw idea to shipped product — we cover the full product lifecycle.</strong>
+</p>
 
 <table>
   <tr>
-    <th align="left">Area</th>
-    <th align="left">What We Create</th>
-    <th align="left">Typical Output</th>
+    <td width="33%" valign="top">
+      <h3>🚀 MVP Development</h3>
+      <p>Focused first versions built to validate ideas fast.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Output-Launch--Ready%20MVP-111827?style=flat-square" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🌐 Web Applications</h3>
+      <p>Modern full-stack products for startups and businesses.</p>
+      <p>
+        <img src="https://img.shields.io/badge/SaaS-Dashboards-2563EB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Portals-Internal%20Tools-2563EB?style=flat-square" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📱 Mobile Applications</h3>
+      <p>Mobile-first apps for iOS, Android, and hybrid product launches.</p>
+      <p>
+        <img src="https://img.shields.io/badge/iOS-Android-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/Hybrid-Mobile%20MVP-7C3AED?style=flat-square" />
+      </p>
+    </td>
   </tr>
+
   <tr>
-    <td><strong>MVP Development</strong></td>
-    <td>Focused first versions of products for validation</td>
-    <td>Clickable product, usable app, launch-ready MVP</td>
-  </tr>
-  <tr>
-    <td><strong>Web Applications</strong></td>
-    <td>Modern full-stack web products</td>
-    <td>SaaS apps, dashboards, portals, internal tools</td>
-  </tr>
-  <tr>
-    <td><strong>Mobile Applications</strong></td>
-    <td>Mobile-first user experiences</td>
-    <td>iOS/Android apps, hybrid apps, mobile MVPs</td>
-  </tr>
-  <tr>
-    <td><strong>AI Automation</strong></td>
-    <td>Workflow automation using AI, APIs, and custom tools</td>
-    <td>AI assistants, internal workflows, data pipelines</td>
-  </tr>
-  <tr>
-    <td><strong>UI/UX Design</strong></td>
-    <td>Clean, user-focused interfaces and product flows</td>
-    <td>Figma designs, prototypes, design systems</td>
-  </tr>
-  <tr>
-    <td><strong>Branding</strong></td>
-    <td>Visual identity for new products and companies</td>
-    <td>Logos, brand systems, landing page direction</td>
-  </tr>
-  <tr>
-    <td><strong>Framer Development</strong></td>
-    <td>High-converting landing pages and marketing sites</td>
-    <td>Framer websites, launch pages, campaign pages</td>
+    <td width="33%" valign="top">
+      <h3>🤖 AI Automation</h3>
+      <p>AI-powered workflows, assistants, agents, and internal tools.</p>
+      <p>
+        <img src="https://img.shields.io/badge/LLMs-Agents-059669?style=flat-square" />
+        <img src="https://img.shields.io/badge/Workflows-Automation-059669?style=flat-square" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎨 UI/UX Design</h3>
+      <p>Clean interfaces, user flows, prototypes, and design systems.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Figma-Prototypes-F97316?style=flat-square" />
+        <img src="https://img.shields.io/badge/Design-Systems-F97316?style=flat-square" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>✨ Branding & Framer</h3>
+      <p>Brand identity, landing pages, launch pages, and marketing sites.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Branding-Identity-DB2777?style=flat-square" />
+        <img src="https://img.shields.io/badge/Framer-Websites-DB2777?style=flat-square" />
+      </p>
+    </td>
   </tr>
 </table>
 
@@ -122,12 +135,12 @@ We work across the full product lifecycle.
 We use the stack that fits the product, not the other way around.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Vue-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Design-Figma%20%7C%20Framer-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Python%20%7C%20Go-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL%20%7C%20MongoDB-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Vercel%20%7C%20Docker-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI-LLMs%20%7C%20Automation%20%7C%20Agents-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Vue-2563EB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design-Figma%20%7C%20Framer-F97316?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Python%20%7C%20Go-16A34A?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL%20%7C%20MongoDB-0891B2?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Vercel%20%7C%20Docker-7C3AED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-LLMs%20%7C%20Automation%20%7C%20Agents-C026D3?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
@@ -156,73 +169,123 @@ flowchart LR
     style G fill:#444,color:#fff,stroke:#333
     style H fill:#000,color:#fff,stroke:#333
     style I fill:#111,color:#fff,stroke:#333
-````
+```
+---
+<br />
 
-### 01. Discover & Plan
+<p align="center">
+  <strong>From rough idea to launch-ready product — with clarity, speed, and scalable execution.</strong>
+</p>
 
-We start by understanding the idea, business goal, user problem, core requirements, and launch constraints.
-
-This stage helps us avoid unnecessary features and focus on what actually needs to be built.
-
-### 02. Design & Build
-
-We move into fast design and development cycles.
-
-This includes:
-
-* User flows
-* Interface design
-* Frontend development
-* Backend development
-* API integrations
-* Admin dashboards
-* Payment flows
-* AI workflows
-* Internal tools
-* Testing and performance improvement
-
-### 03. Launch & Scale
-
-We help take the product live and prepare it for real users.
-
-After launch, we focus on feedback, iteration, stability, and future growth.
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h1>🔍</h1>
+      <h3>01 · Discover</h3>
+      <p>We clarify the idea, users, business goal, MVP scope, launch constraints, and technical roadmap.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Clarity-Strategy-2563EB?style=flat-square" />
+        <img src="https://img.shields.io/badge/MVP-Scope-2563EB?style=flat-square" />
+      </p>
+    </td>
+    <td width="33%" valign="top" align="center">
+    <h1>⚡</h1>
+      <h3>02 · Build</h3>
+      <p>We design and build interfaces, frontend, backend, APIs, dashboards, automations, and integrations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/UI%2FUX-Design-F97316?style=flat-square" />
+        <img src="https://img.shields.io/badge/Full--Stack-Engineering-F97316?style=flat-square" />
+      </p>
+    </td>
+   <td width="33%" valign="top" align="center">
+    <h1>🚀</h1>
+      <h3>03 · Launch</h3>
+      <p>We deploy, test with real users, gather feedback, optimize performance, and prepare for scale.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Launch-Ready-16A34A?style=flat-square" />
+        <img src="https://img.shields.io/badge/Scale-Future-16A34A?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Our Engineering System
 
-Beautiful products need strong systems behind them.
-
-We care about codebases that are:
 
 <table>
   <tr>
-    <td><strong>Readable</strong></td>
-    <td>Code should be easy for future developers to understand.</td>
+    <td width="50%" valign="top">
+      <h2>🧼</h2>
+      <h3>Readable by Humans</h3>
+      <p>
+        Clean structure, clear naming, and simple logic so teams can understand the codebase without fighting it.
+      </p>
+      <p>
+        <code>clear_naming</code> · <code>simple_logic</code> · <code>clean_structure</code>
+      </p>
+    </td>
+    <td>
+    <h2>🛠️</h2>
+      <h3>Built to Maintain</h3>
+      <p>
+        Reusable patterns and modular decisions that make features easier to debug, improve, and extend.
+      </p>
+      <p>
+        <code>reusable_patterns</code> · <code>easy_debugging</code> · <code>smooth_handover</code>
+      </p>
+    </td>
   </tr>
+
   <tr>
-    <td><strong>Scalable</strong></td>
-    <td>The architecture should support growth without forcing a full rebuild.</td>
+    <td width="50%" valign="top">
+      <h2>📈</h2>
+      <h3>Ready to Scale</h3>
+      <p>
+        Architecture that supports new users, future features, integrations, and product growth without a painful rebuild.
+      </p>
+      <p>
+        <code>modular_systems</code> · <code>growth_ready</code> · <code>flexible_architecture</code>
+      </p>
+    </td>
+
+   <td width="50%" valign="top">
+      <h2>⚡</h2>
+      <h3>Fast Where It Matters</h3>
+      <p>
+        Performance-aware frontend, backend, and API choices that make products feel smooth in real usage.
+      </p>
+      <p>
+        <code>fast_pages</code> · <code>optimized_apis</code> · <code>smooth_ux</code>
+      </p>
+   </td>
   </tr>
+
   <tr>
-    <td><strong>Maintainable</strong></td>
-    <td>Features should be easy to update, debug, and extend.</td>
-  </tr>
-  <tr>
-    <td><strong>Performance-Aware</strong></td>
-    <td>Apps should load fast, respond quickly, and feel smooth.</td>
-  </tr>
-  <tr>
-    <td><strong>Secure by Default</strong></td>
-    <td>Authentication, data handling, and API access should be treated seriously.</td>
-  </tr>
-  <tr>
-    <td><strong>Launch-Ready</strong></td>
-    <td>The product should not just run locally. It should be ready for users.</td>
+    <td width="50%" valign="top">
+      <h2>🔐</h2>
+      <h3>Secure From Day One</h3>
+      <p>
+        Authentication, permissions, API access, and data handling treated as core product concerns, not afterthoughts.
+      </p>
+      <p>
+        <code>auth</code> · <code>access_control</code> · <code>safe_apis</code>
+      </p>
+    </td>
+
+   <td>
+   <h2>🚀</h2>
+      <h3>Built for Launch</h3>
+      <p>
+        Products prepared for deployment, monitoring, real users, feedback loops, and future scale.
+      </p>
+      <p>
+        <code>deployment</code> · <code>monitoring</code> · <code>real_users</code>
+      </p>
+   </td>
   </tr>
 </table>
-
----
 
 ## For Founders
 

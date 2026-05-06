@@ -67,6 +67,7 @@ We do not just make websites look good.
 We build digital products that are designed to perform.
 
 ---
+
 ## What We Build
 
 <p align="center">
@@ -171,6 +172,8 @@ flowchart LR
     style I fill:#111,color:#fff,stroke:#333
 ```
 ---
+
+
 <br />
 
 <p align="center">
@@ -289,38 +292,212 @@ flowchart LR
 
 ## For Founders
 
-If you are a founder, we can help you answer the most important early product questions:
+<p align="left">
+  <strong>We help founders move from uncertainty to a clear, buildable product plan.</strong>
+</p>
 
-* What should we build first?
-* What features should we avoid?
-* How do we validate this idea quickly?
-* What should the MVP include?
-* What should the product look like?
-* What stack should we use?
-* How do we ship without overcomplicating the build?
-* How do we make the product scalable after launch?
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧭 Before Building</h3>
+      <p>
+        Most early products fail because teams build too much before they understand what truly matters.
+      </p>
+      <p>
+        We help define the right first version by cutting noise, clarifying the user problem, and shaping a focused MVP.
+      </p>
+    </td>
+     <td width="50%" valign="top">
+      <h3>🚀 After Launch</h3>
+      <p>
+        A product is not finished when it goes live.
+      </p>
+      <p>
+        We help founders improve, measure, iterate, and prepare the product for real users, feedback, and scale.
+      </p>
+    </td>
+  </tr>
+</table>
 
-Our goal is not to make the biggest possible first version.
-Our goal is to build the right first version.
+
+### Founder Questions We Help Answer
+
+<table>
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <h2>01</h2>
+      <h4>What should we build first?</h4>
+      <p><sub>MVP scope · Core features · Launch path</sub></p>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h2>02</h2>
+      <h4>What should we avoid?</h4>
+      <p><sub>Feature cuts · Complexity control · Faster validation</sub></p>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h2>03</h2>
+      <h4>How do we validate quickly?</h4>
+      <p><sub>Prototype · User feedback · Market signal</sub></p>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h2>04</h2>
+      <h4>What should the MVP include?</h4>
+      <p><sub>Must-have flows · User journey · Product logic</sub></p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <h2>05</h2>
+      <h4>What should it look like?</h4>
+      <p><sub>UI/UX · Brand feel · Product experience</sub></p>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h2>06</h2>
+      <h4>What stack should we use?</h4>
+      <p><sub>Frontend · Backend · Cloud · Automation</sub></p>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h2>07</h2>
+      <h4>How do we ship cleanly?</h4>
+      <p><sub>Execution plan · Build cycles · Launch readiness</sub></p>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h2>08</h2>
+      <h4>How do we scale later?</h4>
+      <p><sub>Architecture · Iteration · Future roadmap</sub></p>
+    </td>
+  </tr>
+</table>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Not%20the%20biggest%20version-The%20right%20first%20version-0F172A?style=for-the-badge&labelColor=111827" />
+</p>
+
+<br />
+
+<blockquote align="center">
+  <h3 >
+    “We do not build bloated first versions.
+    <br />
+    We build focused products that are ready to validate.”
+  </h3>
+</blockquote>
+
+<p align="center">
+  <sub>
+    Less noise. Clearer scope. Faster launch. Better learning.
+  </sub>
+</p>
+
+<br />
 
 ---
 
 ## For Teams
 
-If you already have a team, we can help with:
+<p align="center">
+  <strong>
+    Already have a team? We help them move faster, ship cleaner, and build with more confidence.
+  </strong>
+</p>
 
-* Product design support
-* Frontend development
-* Backend development
-* AI automation
-* Internal tools
-* Design systems
-* Technical cleanup
-* Feature development
-* Product iteration
-* Launch support
+<p align="center">
+  We plug into your existing workflow as a product, design, engineering, or automation partner — without disrupting how your team already works.
+</p>
 
-We can work as your product team, engineering partner, or execution layer.
+<br />
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧩 We Extend Your Team</h3>
+      <p>
+        Your team already has product context, business knowledge, and customer understanding.
+        We add focused execution where extra speed, design depth, or engineering bandwidth is needed.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Product%20Support-F97316?style=flat-square" />
+        <img src="https://img.shields.io/badge/Engineering%20Bandwidth-2563EB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Faster%20Shipping-16A34A?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ We Remove Execution Bottlenecks</h3>
+      <p>
+        When roadmaps slow down because of pending designs, frontend work, backend APIs,
+        cleanup tasks, automations, or launch preparation, we help push things forward.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Technical%20Cleanup-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/Feature%20Delivery-0891B2?style=flat-square" />
+        <img src="https://img.shields.io/badge/Launch%20Support-111827?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h2>🎨</h2>
+      <h3>Product & Design</h3>
+      <p>
+        Product flows, UI/UX, design systems, prototypes, and interface improvements.
+      </p>
+      <p>
+        <code>product_design</code><br />
+        <code>ui_ux</code><br />
+        <code>design_systems</code>
+      </p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h2>⚙️</h2>
+      <h3>Engineering</h3>
+      <p>
+        Frontend, backend, APIs, technical cleanup, feature development, and product iteration.
+      </p>
+      <p>
+        <code>frontend</code><br />
+        <code>backend</code><br />
+        <code>feature_builds</code>
+      </p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h2>🤖</h2>
+      <h3>Automation & Tools</h3>
+      <p>
+        AI automation, internal tools, dashboards, workflows, and operational systems.
+      </p>
+      <p>
+        <code>ai_automation</code><br />
+        <code>internal_tools</code><br />
+        <code>dashboards</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/We%20can%20join%20as-Product%20Team-0F172A?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Engineering-Partner-2563EB?style=for-the-badge&labelColor=1E293B" />
+  <img src="https://img.shields.io/badge/Execution-Layer-16A34A?style=for-the-badge&labelColor=052E16" />
+</p>
+
+<br />
+
+<p align="center">
+  <em>
+    “We do not replace your team.
+    <br />
+    We strengthen the parts of the product that need more momentum.”
+  </em>
+</p>
 
 ---
 
